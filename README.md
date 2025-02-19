@@ -11,4 +11,4 @@ Requirements
 - Python 3.x
 - Required libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `Flask`
 
-Contact Info : prasannabetha13@gmail.com
+Contact Info : ghema9754@gmail.com
